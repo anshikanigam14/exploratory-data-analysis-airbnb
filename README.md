@@ -6,7 +6,7 @@
 
 **Kaggle Dataset Used: [Link](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)**
 
-Check out my blogs on Medium: [Blog](https://medium.com/@anshika.nigam)**
+Check out my blogs on Medium: **[Blog](https://medium.com/@anshika.nigam)**
 
 
 
