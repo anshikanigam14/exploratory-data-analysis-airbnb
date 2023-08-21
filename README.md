@@ -1,4 +1,4 @@
-**Visualizing the Airbnb Realm: A Visual Journey into Airbnb Insights :**
+## Visualizing the Airbnb Realm: A Visual Journey into Airbnb Insights :
 
 * Analyzed data for more than 1 lakh listings for an Airbnb Dataset using Pandas and Numpy.
 * Created visualizations including Density Mapbox, Scatter plots, Stacked Bar charts, Line Chart, Word Cloud, and Bar Chart  using Plotly, Seaborn, and Matplotlib
@@ -6,7 +6,9 @@
 
 **Kaggle Dataset Used: [Link](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)**
 
-**Check out my blogs on Medium: [Blog](https://medium.com/@anshika.nigam)**
+**Check out my Data Science related blogs on Medium: [Blog](https://medium.com/@anshika.nigam)**
+
+
 
 
 
